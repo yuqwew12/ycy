@@ -1,5 +1,6 @@
 <template>
 	<div>
+		juug
     	<router-view></router-view>
     </div>
 </template>
